@@ -5,13 +5,14 @@
 	},
 	"default": {
 		"container-title": {
-			"royal society open science": "Roy. Soc. Open Sci.",
+			"royal society open science": "RSOS",
 			"proceedings of the royal society b: biological sciences": "PRSB",
 			"proceedings of the royal society b": "PRSB",
 			"systematic biology": "Syst. Bio.",
 			"bioinformatics": "Bioinf.",
+			"Biology Letters": "Bio. Lett.",
 			"philosophical transactions of the royal society b: biological sciences": "Phil. Trans. Roy. Soc. B",
-			"palaeogeography, palaeoclimatology, palaeoecology": "Palaeo3",
+			"palaeogeography, palaeoclimatology, palaeoecology": "Palaeo^3^",
 			"Earth-Science Reviews": "Earth-Sci. Rev.",
 			"geological magazine": "Geol. Mag.",
 			"Journal of Quaternary Science": "J. Quat. Sci.",
