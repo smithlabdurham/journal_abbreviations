@@ -6,12 +6,12 @@
 	"default": {
 		"container-title": {
 			"royal society open science": "Roy. Soc. Open Sci.",
-			"Proceedings of the Royal Society B: Biological Sciences": "PRSB",
-			"Proceedings of the Royal Society B": "PRSB",
-			"Systematic Biology": "Syst. Bio.",
+			"proceedings of the royal society b: biological sciences": "PRSB",
+			"proceedings of the royal society b": "PRSB",
+			"systematic biology": "Syst. Bio.",
 			"bioinformatics": "Bioinf.",
-			"Philosophical Transactions of the Royal Society B: Biological Sciences": "Phil. Trans. Roy. Soc. B",
-			"Palaeogeography, Palaeoclimatology, Palaeoecology": "Palaeo3",
+			"philosophical transactions of the royal society b: biological sciences": "Phil. Trans. Roy. Soc. B",
+			"palaeogeography, palaeoclimatology, palaeoecology": "Palaeo3",
 			"Earth-Science Reviews": "Earth-Sci. Rev.",
 			"geological magazine": "Geol. Mag.",
 			"Journal of Quaternary Science": "J. Quat. Sci.",
@@ -20,7 +20,7 @@
 			"Nature Communications": "Nat. Comms.",
 			"Nature Geoscience": "Nat. Geosci.",
 			"Journal of Sedimentary Research": "J. Sed. Res.",
-			"Astronomy astrophysics": "Astron. &amp; Astrophys."
+			"Astronomy astrophysics": "Astron. &amp; Astrophys.",
 			"paleobiology": "Paleobiol.",
 			"palaeontology": "Palaeontol.",
 			"sedimentology": "Sedimentol.",
