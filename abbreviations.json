@@ -5,6 +5,10 @@
 	},
 	"default": {
 		"container-title": {
+			"royal society open science": "Roy. Soc. Open Sci.",
+			"Proceedings of the Royal Society B: Biological Sciences": "PRSB",
+			"Proceedings of the Royal Society B": "PRSB",
+			"Systematic Biology": "Syst. Bio.",
 			"academia peruana de cirugia": "Acad. Peru. Cir.",
 			"academy of management journal": "Acad. Manage. J.",
 			"academy of management review": "Acad. Manage. Rev.",
