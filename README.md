@@ -3,7 +3,7 @@
 To abbreviate journal titles using pandoc, add:
 
 ```
---citation-abbreviations=https://raw.githubusercontent.com/smithlabdurham/journal_abbreviations/main/abbreviations.json
+--citation-abbreviations https://raw.githubusercontent.com/smithlabdurham/journal_abbreviations/main/abbreviations.json
 ```
 
 to your `pandoc --citeproc` command, or add
